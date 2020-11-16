@@ -1,10 +1,10 @@
 ﻿$ErrorActionPreference = 'Stop';
 $packageArgs = @{
   packageName   = $env:ChocolateyPackageName
-  softwareName  = 'MetaTrader5'
+  softwareName  = 'MetaTrader 5'
   fileType      = 'EXE'
-  validExitCodes= @(0, 3010, 1605, 1614, 1641)
-  silentArgs   = '/S'
+  validExitCodes= @(1, 3010, 1605, 1614, 1641)
+  silentArgs   = '/S /VERYSILENT'
 }
 
 $uninstalled = $false

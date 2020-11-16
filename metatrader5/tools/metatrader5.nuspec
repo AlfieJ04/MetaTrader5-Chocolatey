@@ -6,10 +6,10 @@
     <packageSourceUrl>https://github.com/AlfieJ04/MetaTrader5-Chocolatey.git</packageSourceUrl>
     <owners>AlfieJ04</owners>
 
-    <title>MetaTrader5 (Install)</title>
+    <title>MetaTrader5</title>
     <authors>MetaQuotes Ltd</authors>
     <projectUrl>https://www.metatrader5.com/</projectUrl>
-    <iconUrl>http://cdn.rawgit.com/https://github.com/AlfieJ04/MetaTrader5-Chocolatey.git/master/icons/metatrader5.png</iconUrl>
+    <iconUrl>https://raw.githubusercontent.com/AlfieJ04/MetaTrader5-Chocolatey/master/icons/metatrader5.png</iconUrl>
     <copyright>2020 MetaQuotes Ltd</copyright>
     <licenseUrl>https://www.metaquotes.net/licenses/terminal/mt5</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
@@ -18,8 +18,6 @@
     <tags>metatrader5 finance forex trading finance financial stocks stock-market</tags>
     <summary>MetaTrader 5 is an all-in-one platform for trading Forex, Stocks and Futures.</summary>
     <description>MetaTrader 5 allows you to enjoy the freedom of movement to the full extent — you can stay active while trading from smartphones and tablets. The Web Platform provides even more possibilities and allows you to work from any web browser and any device. By choosing the most convenient way from a variety of options, you can trade 24 hours a day!</description>
+    <releaseNotes>https://www.metatrader5.com/en/releasenotes</releaseNotes>
   </metadata>
-  <!-- <files>
-    <file src="tools\**" target="tools" />
-  </files> -->
 </package>

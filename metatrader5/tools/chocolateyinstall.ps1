@@ -8,7 +8,7 @@ $packageArgs = @{
   fileType      = 'EXE'
   url           = $url
   softwareName  = 'MetaTrader5'
-  silentArgs   = '/auto'
+  silentArgs   = '/auto /VERYSILENT'
   validExitCodes= @(1)
 }
 

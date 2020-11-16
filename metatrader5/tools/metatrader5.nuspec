@@ -13,13 +13,13 @@
     <copyright>2020 MetaQuotes Ltd</copyright>
     <licenseUrl>https://www.metaquotes.net/licenses/terminal/mt5</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
-    <projectSourceUrl>https://download.mql5.com/cdn/web/metaquotes.software.corp/mt5/mt5setup.exe?utm_source=www.metatrader5.com&utm_campaign=download</projectSourceUrl>
+    <projectSourceUrl>https://download.mql5.com/cdn/web/metaquotes.software.corp/mt5/mt5setup.exe</projectSourceUrl>
     <docsUrl>https://www.metatrader5.com/en/terminal/help</docsUrl>
     <tags>metatrader5 finance forex trading finance financial stocks stock-market</tags>
     <summary>MetaTrader 5 is an all-in-one platform for trading Forex, Stocks and Futures.</summary>
     <description>MetaTrader 5 allows you to enjoy the freedom of movement to the full extent — you can stay active while trading from smartphones and tablets. The Web Platform provides even more possibilities and allows you to work from any web browser and any device. By choosing the most convenient way from a variety of options, you can trade 24 hours a day!</description>
   </metadata>
-  <files>
+  <!-- <files>
     <file src="tools\**" target="tools" />
-  </files>
+  </files> -->
 </package>

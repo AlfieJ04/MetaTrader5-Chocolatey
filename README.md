@@ -1,2 +1,2 @@
 # MetaTrader5-Chocolatey
-Chocolatey version of MetaTrader5
+Chocolatey package for MetaTrader5
